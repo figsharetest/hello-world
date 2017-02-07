@@ -1,4 +1,4 @@
 # hello-world
 Test for figshare
 
-This is a test 
+This is a test for figshare
